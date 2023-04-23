@@ -44,7 +44,7 @@ body::-webkit-scrollbar {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        padding: 0 3rem;
+        padding: 0 12px;
         border-radius: 12px;
 
         &-left {
@@ -56,28 +56,27 @@ body::-webkit-scrollbar {
         .nav-left {
             display: flex;
             align-items: center;
-            gap: 5px;
+            gap: 7px;
             font-family: 'Unbounded', cursive;
             font-size: 22px;
             font-weight: 400;
             white-space: nowrap;
+            padding: 12px 22px;
+            border-radius: 10px;
+            background-color: #000;
 
             img {
                 margin-top: 1px;
-                width: 17px;
+                width: 15px;
                 height: auto;
             }
         }
 
         .nav-right {
-            align-items: flex-end;
-            height: 25px;
-
-            span {
-                font-size: 24px;
-                // margin-bottom: 5px;
-                padding: 0;
-            }
+            align-items: center;
+            padding: 12px 22px;
+            border-radius: 10px;
+            background-color: #000;
         }
 
         .nav-center {
