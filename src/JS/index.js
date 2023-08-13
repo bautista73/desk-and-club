@@ -1,3 +1,4 @@
+//page load JS
 import $ from 'jquery';
 
 $(function() {
@@ -7,4 +8,10 @@ $(function() {
       e.preventDefault();
       $('#page-content').load($(this).attr('href'));
     });
+});
+
+
+//button JS
+document.querySelector('.more-button').addEventListener('click', function () {
+  document.querySelector('.list-container').classList.toggle('active');
 });

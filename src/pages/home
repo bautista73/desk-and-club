@@ -1,0 +1,187 @@
+<article id="home">
+        <header class="home-hero">
+            <div class="home-hero-left">
+                <div class="left-top">
+                    <h1>Setup Inspiration</h1>
+                    <div class="letter-style">
+                        <h1>Empowering</h1>
+                        <div class="letter-style-color"></div>
+                    </div>
+                    <h1>Creativity</h1>
+                    <!--personality, minimalism, productivity, lifestyle-->
+                </div>
+                <div class="left-center">
+                    <p>Discover stunning and innovative desk setups that seamlessly blend minimalism with creativity, offering both practicality and aesthetics.</p>
+                    <button class="left-center-button">EXPLORE SETUPS
+                        <img src="../img/arrow.svg" />
+                    </button>
+                </div>
+            </div>
+            <div class="home-hero-right">
+                <div class="img-container">
+                    <img class="img-lower" src="../img/set2.png" />
+                </div>
+                <div class="img-container">
+                    <img class="img-upper" src="../img/set1.png" />
+                </div>
+                <div class="img-container">
+                    <img class="img-lower" src="../img/set3.png" />
+                </div>
+            </div>
+        </header>
+        <section class="home-body">
+            <div class="content-row"> <!--row 1-->
+                <div class="content-row-header">
+                    <h1>Setups & Spaces</h1>
+                </div>
+                <div class="content-row-carousell">
+                    <!--item 1-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Productivity</span>
+                            <img class="c-img" src="../img/setup-productivity.png">
+                        </div>
+                    </div>
+                    <!--item 2-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Gaming</span>
+                            <img class="c-img" src="../img/setup-gaming.png">
+                        </div>
+                    </div>
+                    <!--item 3-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Minimalist</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 4-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">PC</span>
+                            <img class="c-img" src="../img/setup-max.png">
+                        </div>
+                    </div>
+                    <!--item 5-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Mac</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 6-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Dark Mode</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 7-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Light Mode</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-row"> <!--row 2-->
+                <div class="content-row-header">
+                    <h1>Discover New Products</h1>
+                </div>
+                <div class="content-row-carousell">
+                   <!--item 1-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">For The Desk</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 2-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Room Essentials</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 3-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Peripherals</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 4-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">RGB</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 5-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Seating</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="content-row"> <!--row 3-->
+                <div class="content-row-header">
+                    <h1>Explore Guides & Tips</h1>
+                </div>
+                <div class="content-row-carousell">
+                   <!--item 1-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Productivity</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 2-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Gaming</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 3-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Minimalist</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 4-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Productivity</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 5-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Productivity</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                    <!--item 6-->
+                    <div class="carousell-item">
+                        <div class="c-container">
+                            <span class="c-item-title">Productivity</span>
+                            <img class="c-img" src="../img/set5.png">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <section class="home-body-cta">
+            <div class="cta">
+                <span class="cta-text">Contribute to the collection, submit your setup with us.</span>
+                <button class="cta-button">CONTACT US</button>
+            </div>
+        </section>
+    </article>
